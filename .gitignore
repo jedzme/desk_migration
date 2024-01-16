@@ -1,0 +1,4 @@
+.github/**
+**.csv
+env/
+*.log
